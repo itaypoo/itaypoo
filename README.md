@@ -80,4 +80,4 @@ I'm a fullstack developer based in israel. I like learning new technologies and 
   
 </div>
 
-*~~A suprise is waiting for you in the youtube button :)~~*
+*~~A surprise is waiting for you in the youtube button :)~~*

@@ -3,9 +3,6 @@
 
 I'm a fullstack developer based in israel. I like learning new technologies and working on my projects.
 
-### Currently working on:
-[💻 Codemaster - A website for learing to code](https://github.com/itaypoo/codemaster-learn-to-code)
-
 ### Past projects:
 - [📷 Photoblocks](https://github.com/itaypoo/photoblocks) - Share special moments with the people that are special to you
 - [🪄 Wobbl - The Lost Wands](https://store.steampowered.com/app/1919770/Wobbl__The_Lost_Wands/) - A game about editing the level to complete it
